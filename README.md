@@ -1,0 +1,1 @@
+Creating a game where the computer picls a "secret number " (you can handcode it for now so , or use a simple  randomizer) , and the player has to guess it.The computer gives hint("Too high" or "too low"
